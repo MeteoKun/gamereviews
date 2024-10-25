@@ -3,7 +3,7 @@
 #abort on errors
 set -e
 
-env PUBLIC_URL=https://github.com/MeteoKun/gamereviews npm run build
+env PUBLIC_URL=https://meteokun.github.io/gamereviews npm run build
 
 cd build
 
